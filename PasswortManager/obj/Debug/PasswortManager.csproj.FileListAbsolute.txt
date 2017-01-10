@@ -1,0 +1,10 @@
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\bin\Debug\PasswortManager.exe.config
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\bin\Debug\PasswortManager.exe
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\bin\Debug\PasswortManager.pdb
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.csprojResolveAssemblyReference.cache
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.Form1.resources
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.Properties.Resources.resources
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.csproj.GenerateResource.Cache
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.exe
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.pdb
+C:\Users\Laurenz-PC\Desktop\PasswortManager\PasswortManager\obj\Debug\PasswortManager.PasswordEintrag.resources
