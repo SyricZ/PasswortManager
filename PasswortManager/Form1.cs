@@ -21,6 +21,11 @@ namespace PasswortManager
             // remove grip style 
             toolStrip1.GripStyle = ToolStripGripStyle.Hidden;
         }
+		
+		private void UnusedMethod()
+		{
+			// this is an anused method
+		}
 
         private void IconToBitmap(PaintEventArgs e)
         {
